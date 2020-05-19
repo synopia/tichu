@@ -1,0 +1,17 @@
+{
+  "name": "Scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Tichu.js",
+  "dependencies": {
+    "@tabletop-playground/api": "^0.4.0",
+    "javascript-state-machine": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
