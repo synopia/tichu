@@ -123,8 +123,10 @@ function prepareTable() {
             deck.addCards(s, true)
         }
     })
+    setTimeout(function () {
+        deck.shuffle()
+    }, 500)
 
-    deck.shuffle()
     TichuState.deck = deck
 }
 
